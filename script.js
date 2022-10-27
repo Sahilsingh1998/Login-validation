@@ -25,7 +25,7 @@ if (password.value == "") {
     }
     if (flag) {
         return true;
-    } else (flag){
+    } else{
         return false;
     }
 }
