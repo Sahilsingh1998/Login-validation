@@ -28,10 +28,6 @@ if (password.value == "") {
     } else (flag){
         return false;
     }
-
-
-    
-
 }
 
 
